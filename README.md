@@ -1,4 +1,4 @@
-SanctiSight — See Risk Before It Strikes
+**SanctiSight — See Risk Before It Strikes**
 Hackathon: Google Cloud x Kaggle BigQuery AI Hackathon 2025
 Category: AI + Vector Search for Risk Intelligence
 
